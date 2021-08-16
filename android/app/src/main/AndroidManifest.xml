@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.codemagic.marketing.demoapp">
+    package="io.codemagic.marketing.demoapp2">
    <application
-        android:label="demoapp"
+        android:label="demoapp2"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

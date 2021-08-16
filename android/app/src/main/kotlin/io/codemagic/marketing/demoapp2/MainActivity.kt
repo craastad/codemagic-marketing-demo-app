@@ -1,4 +1,4 @@
-package io.codemagic.marketing.demoapp
+package io.codemagic.marketing.demoapp2
 
 import io.flutter.embedding.android.FlutterActivity
 
